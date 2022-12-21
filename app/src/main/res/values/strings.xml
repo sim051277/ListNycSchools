@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NYSchoolList</string>
+    <string name="list_name">Schools in NewYork</string>
+    <string name="loading_failed">Failed to load</string>
+    <string name="retry">Retry</string>
+    <string name="loading">Loading</string>
+    <string name="school_title">%s</string>
+    <string name="school_name">School Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="website">Website</string>
+    <string name="reading_score">SAT Reading Score</string>
+    <string name="writing_score">SAT Writing Score</string>
+    <string name="math_score">SAT Math Score</string>
+    <string name="back_button">Navigate back to display schools</string>
+    <string name="school_details">School Details</string>
+    <string name="loading_data">Fetching data, please wait...</string>
+
+</resources>
